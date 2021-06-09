@@ -1,0 +1,12 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Trillo app",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Nkemdi",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
